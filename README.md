@@ -2,21 +2,6 @@
 
 Este projeto implementa um aplicativo de criptografia de arquivos com interface gráfica, utilizando diferentes algoritmos de criptografia como Fernet, AES e RSA, com compactação opcional e verificação de integridade.
 
-##Execução
-Clone o repositório: git clone https://github.com/seu-usuario/criptografia-de-arquivos.git
-Gere as chaves de criptografia executando o script gerar_chave.py.
-Execute o aplicativo: python criptografia.py
-
-##Uso
-Selecione o arquivo: Clique no botão "Procurar" para escolher o arquivo que deseja criptografar ou descriptografar.
-Escolha o algoritmo: Selecione o algoritmo de criptografia desejado (Fernet, AES ou RSA) no menu suspenso.
-Insira a senha (AES): Se você escolher o algoritmo AES, insira a senha no campo "Senha (AES)".
-Compactar arquivo: Marque a opção "Compactar" para compactar o arquivo antes da criptografia.
-Criptografar/Descriptografar: Clique no botão "Criptografar" ou "Descriptografar" para iniciar o processo.
-
-##Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar solicitações de pull.
-
 ## Funcionalidades
 
 *   **Criptografia e descriptografia de arquivos:** Suporta os algoritmos Fernet, AES e RSA.
@@ -51,5 +36,3 @@ Escolha o algoritmo: Selecione o algoritmo de criptografia desejado (Fernet, AES
 Insira a senha (AES): Se você escolher o algoritmo AES, insira a senha no campo "Senha (AES)".
 Compactar arquivo: Marque a opção "Compactar" para compactar o arquivo antes da criptografia.
 Criptografar/Descriptografar: Clique no botão "Criptografar" ou "Descriptografar" para iniciar o processo.
-Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar solicitações de pull.
